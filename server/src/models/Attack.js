@@ -1,5 +1,5 @@
 const { Sequelize } = require("sequelize");
-const {db, DataTypes} = require("server\src\db\config.js");
+const {db, DataTypes} = require("../db/config.js");
 
 
 const Attack = db.define(
