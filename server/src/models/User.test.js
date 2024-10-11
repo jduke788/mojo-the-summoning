@@ -19,6 +19,7 @@ describe('User', () => {
     expect(user).toHaveProperty('id')
   })
 
+  
   /**
    * Create more tests
    * E.g. check that the username of the created user is actually gandalf
